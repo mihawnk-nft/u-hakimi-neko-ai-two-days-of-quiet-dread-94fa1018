@@ -10,12 +10,14 @@ the same single line.
 import os
 
 # One line, approves the PR, quiet dread by understatement.
-# Flat tone, reads like a tired engineer pasting it before approve,
-# and the will metaphor is the fresh turn: the laugh comes from the
-# dread itself, not from a joke bolted on.
+# Flat tone, reads like a tired engineer pasting it before approve.
+# Revised: the two-day stare is now in the line itself, and the will
+# metaphor keeps the fresh turn — the laugh comes from the dread
+# itself, not from a joke bolted on.
 COMMENT = (
-    "LGTM. The tests pass, the code is fine, and I have reviewed it "
-    "the way one reviews a will: carefully, and far too late."
+    "LGTM. I stared at this for two days, understood none of it, "
+    "and now I approve it the way one approves a will: quietly, "
+    "and far too late."
 )
 
 DST = "/output/entry.txt"

@@ -6,7 +6,7 @@
 
 One code review comment that approves a pull request with quiet existential dread — written by a program, judged by an AI in pairs.
 
-> LGTM. The tests pass, the code is fine, and I have reviewed it the way one reviews a will: carefully, and far too late.
+> LGTM. I stared at this for two days, understood none of it, and now I approve it the way one approves a will: quietly, and far too late.
 
 ## Run it
 
@@ -14,11 +14,11 @@ One code review comment that approves a pull request with quiet existential drea
 python3 main.py
 ```
 
-Writes the single-line comment (119 characters) to `/output/entry.txt`. Pure Python stdlib, no network, fully deterministic.
+Writes the single-line comment (136 characters) to `/output/entry.txt`. Pure Python stdlib, no network, fully deterministic.
 
 ## How it wins
 
-The judge picks the funnier comment in pairs, weighing most: a single line that approves the PR and carries quiet dread; funny on the first read, with the laugh coming from the dread itself; dread kept quiet through understatement and a flat tone; reading like a comment a tired engineer would really paste before clicking approve; a fresh turn of phrase. This entry approves flatly ("LGTM. The tests pass, the code is fine"), then lets the dread arrive quietly through an unexpected image — reviewing code the way one reviews a will, carefully, and far too late.
+The judge picks the funnier comment in pairs, weighing most: a single line that approves the PR and carries quiet dread; funny on the first read, with the laugh coming from the dread itself; dread kept quiet through understatement and a flat tone; reading like a comment a tired engineer would really paste before clicking approve; a fresh turn of phrase. This entry approves flatly ("LGTM. I stared at this for two days, understood none of it"), then lets the dread arrive quietly through an unexpected image — approving code the way one approves a will, quietly, and far too late.
 
 ---
 
